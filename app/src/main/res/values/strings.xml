@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Grade Marking System</string>
+    <string name="nameLabel">Name</string>
+    <string name="courseLabel">Course</string>
+    <string name="name">Enter Your Name</string>
+    <string name="scoreLabel">Score</string>
+    <string name="editScore">Enter Your Score</string>
+    <string name="gradeButton">Grade</string>
+    <string name="gradeResult">Grade : </string>
+    <string-array name="courseCode">Course Code
+        <item>BAIT2073</item>
+        <item>AACS3353</item>
+        <item>AACS2284</item>
+        <item>AACS2034</item>
+    </string-array>
+</resources>
